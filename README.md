@@ -93,51 +93,51 @@ A normalized, relational diagram was created as there were not enough tables to 
 
 ### 1. Is there a pattern of amount of crime over time?
 
-Analysis: We evaluated count of crime over time
+Analysis: We analyzed the trend of crime incidents over time.
 
-Visualization: Line plot of crime by year
+Visualization: Line plot illustrating crime counts by year.
 
-Insight: Our data shows overall crime decreasing over time
+Insight: Our data shows overall crime decreasing over time.
 
 <img width="1440" alt="Screenshot 2024-10-18 at 6 14 10 PM" src="https://github.com/user-attachments/assets/417d34b9-793b-49d9-a7e1-55ce44968ddf">
 
 ### 2. Did the most common type of crime remain consistent throughout the years?
 
-Analysis: We evaluated count of crime over a decade, separated into the first half and last half of the decade (5 years each)
+Analysis: We evaluated count of crime over a decade, separated into the first half and last half of the decade (5 years each).
 
-Visualization: Heatmat of crime type by year
+Visualization: Heatmat of crime type by year.
 
-Insight: Theft, Battery & Criminal Damage remain top three crime types across the last ten years 
+Insight: Theft, Battery & Criminal Damage remain top three crime types across the last ten years.
 
 <img width="1440" alt="Screenshot 2024-10-18 at 6 14 18 PM" src="https://github.com/user-attachments/assets/a871164a-e60e-4cd0-b347-91f709c06bc9">
 
 ### 3. What districts of Chicago had the highest amount of crime per capita? 
 
-Analysis: We evaluated count of crime per capita per neighborhood
+Analysis: We assessed crime rates per capita across different neighborhoods.
 
-Visualization: Heatmat of crime per capita by neighborhood
+Visualization: Heatmap depicting crime per capita by neighborhood.
 
-Insight: Englewood, East Garfield Park and West Englewood have the highest crime per capita in Chicago
+Insight: Englewood, East Garfield Park and West Englewood have the highest crime per capita in Chicago.
 
 <img width="1440" alt="Screenshot 2024-10-18 at 6 15 00 PM" src="https://github.com/user-attachments/assets/a6b2435a-6405-4cf0-b432-488c4d5adf9d">
 
 ### 4. Did the most common type of crime remain consistent throughout the years?
 
-Analysis: We visualized the correlation between trust scores of citizens and safety scores of neighborhoods
+Analysis: We visualized the correlation between trust scores of citizens and safety scores of neighborhoods.
 
-Visualization: Scatterplot of overall trust plotted against overall safety 
+Visualization: Scatterplot of overall trust plotted against overall safety.
 
-Insight: There is a strong positive correlation between overall safety scores and trust 
+Insight: There is a strong positive correlation between overall safety scores and trust.
 
 <img width="1440" alt="Screenshot 2024-10-18 at 6 15 06 PM" src="https://github.com/user-attachments/assets/522796c9-e28f-401a-a9be-961f4b75ded5">
 
 ### 5. Is there a correlation between income levels and safety scores?
 
-Analysis: We plotted the correlation between low, medium and high income levels against safety scores 
+Analysis: We examined the relationship between low, medium, and high income levels and their corresponding safety scores.
 
-Visualization: Three scatterplot of each income level plotted against overall safety 
+Visualization: Three scatterplots showing each income level plotted against overall safety scores.
 
-Insight: High income residents trust police in their districts despite safety scores 
+Insight: High income residents trust police in their districts despite safety scores.
 
 <img width="1440" alt="Screenshot 2024-10-18 at 6 15 13 PM" src="https://github.com/user-attachments/assets/23f5f72b-9bfc-4be3-a91b-da82e8503d8d">
 
@@ -147,19 +147,19 @@ Insight: High income residents trust police in their districts despite safety sc
 
 ### 6. Which districts have the lowest overall Safety and Trust scores?
 
-Analysis: We visualized safety and trust scores by districts of Chicago
+Analysis: We assessed safety and trust scores across various districts in Chicago.
 
-Visualization: Heatmat of overall safety and trust scores by district  
+Visualization: HHeatmap displaying overall safety and trust scores by district.
 
-Insight: Overall Safety and Trust scores are the lowest for Englewood and Harrison
+Insight: Overall Safety and Trust scores are the lowest for Englewood and Harrison.
 
 <img width="1440" alt="Screenshot 2024-10-18 at 6 15 34 PM" src="https://github.com/user-attachments/assets/3f6ced4c-f13b-49f7-b559-5e2beeac9992">
 
 ### 7. Is there a difference in correlation between trust and safety scores for each income level group? 
 
-Analysis: We analyzed the correlation between trust and safety scores for each respective income level group. 
+Analysis: We examined the relationship between trust and safety scores within different income level groups.
 
-Visualization: Scatterplot of Trust and Safety Correlation by Income Segments, Correlation Matrix For Trust and Safety Ratings
+Visualization:  Scatterplot illustrating the correlation between trust and safety scores by income segments, along with a correlation matrix for trust and safety ratings.
 
 Insight: There is overall a positive correlation between safety and trust sentiment scores. However, low and medium-income residents tend to trust the police when safety scores are high. In contrast, there is a weaker correlation for high-income residents, who maintain trust in the police even when safety scores are low.
 

@@ -89,7 +89,7 @@ A normalized, relational diagram was created as there were not enough tables to 
 
 
 
-## Visualization
+## Key Questions, Insights and Visualizations
 
 ### 1. Is there a pattern of amount of crime over time?
 

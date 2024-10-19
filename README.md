@@ -2,16 +2,9 @@
 
 The repository covers a project aimed to analyze Chicago crime data in relation to socioeconomic factors to provide actionable insights and recommendations for reducing crime rates through effective data visualization and trend analysis.
 
-### Detailed Project Description: 
-
-**Executive Summary:** 
+### Project Objective: 
 
 Chicago has been identified as a city with one of the highest crime rates in the United States. Crime rates can impact tourism, immigration, and business opportunities while also providing a measurement for how policy reform has impacted a city. This project will analyze crime trends over the past 20 years in Chicago, looking at the correlation between geography, income, and crime, and how policy has impacted crime rates, crime types, and citizen sentiment related to safety and trust of the police.
-
-**Business Case:** 
-
-The city of Chicago is looking to get a better understanding about how crime rates are changing across the city, and how crime impacts citizen sentiment related to overall safety and trust of the police. Therefore, they need to gauge how prevalent crime is in different neighborhoods, the different types of crimes being committed over time, and how citizen sentiment is impacted by these considerations. City officials want to know which areas are still heavily impacted, in order to make decisions regarding whether additional reforms are needed in certain areas or if they need to change to make a higher impact. This will be accomplished through an analysis of crime rates, crime types, income levels in regions, citizen sentiment, distribution of crimes, and how it has changed over time.
-
 
 ### Methodology:
 

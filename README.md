@@ -6,7 +6,19 @@ The repository covers a project aimed to analyze Chicago crime data in relation 
 
 Chicago has been identified as a city with one of the highest crime rates in the United States. Crime rates can impact tourism, immigration, and business opportunities while also providing a measurement for how policy reform has impacted a city. This project will analyze crime trends over the past 20 years in Chicago, looking at the correlation between geography, income, and crime, and how policy has impacted crime rates, crime types, and citizen sentiment related to safety and trust of the police.
 
-### Methodology:
+# Repository Structure
+
+**Data Model** (Chicago_Crime_data_model.mwb)
+
+- Contains the MySQL Workbench file to create relational model and EER diagram
+
+**STM** (STM.xlsx)
+- Contains the Google Sheets for Source to Target Mapping (STM)
+
+**Google Cloud Storage Loading** (Chicago Crime Database ETL.html, ETL Script.ipynb)
+- Contains a Python notebook to clean and transforma data to load into Google Cloud Storage for data storage
+
+# Methodology:
 
 1. Identification of datasets
   -   Reported incidents of crime that occurred in the City of Chicago from 2001 to present
@@ -35,8 +47,6 @@ https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
 https://data.cityofchicago.org/Public-Safety/Police-Sentiment-Scores/28me-84fj
 
 **2. Data Preprocessing**
-
-*Files in repository: ETL Script, PythonGCP Script, Data Model MySQL Workbench Model, STM Sheet*
 
 <ins>Database and Tools:</ins> 
 
